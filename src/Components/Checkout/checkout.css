@@ -1,0 +1,39 @@
+.checkout-total {
+  background-color: #f3e9df;
+}
+.checkout-Content {
+  width: 100%;
+}
+.checkout-p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0.5%;
+}
+.checkout-h5 {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.5%;
+}
+.checkout-mainContent {
+  border-bottom: 1px solid #dedede;
+}
+.checkout-image {
+  height: 100px;
+  width: 120px;
+  object-fit: cover;
+}
+.checkout-image img {
+  height: 100%;
+  width: 100%;
+}
+.checkout-button {
+  background-color: black;
+  color: white;
+}
+.checkout-input {
+  border: 1px solid #dedede;
+  padding: 13px;
+  width: 100%;
+}

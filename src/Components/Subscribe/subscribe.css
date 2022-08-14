@@ -1,0 +1,35 @@
+.subscribe-main {
+  position: relative;
+  overflow: hidden;
+}
+.subscribe-svg svg {
+  position: absolute;
+  top: -4px;
+  right: 0px;
+}
+.subscribe-list {
+  height: 78px;
+  background-color: rgba(226, 149, 71, 0.3);
+}
+.btn-subscribe {
+  position: absolute;
+  border: none;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  right: 4px;
+  bottom: 4px;
+  background-color: rgba(226, 149, 71, 0.31);
+}
+.input-subscribe {
+  border: none;
+  height: 3rem;
+  width: 100%;
+  padding: 15px;
+  position: relative;
+  border-radius: 30px;
+}
+.form-subscribe {
+  position: relative;
+  width: 100%;
+}

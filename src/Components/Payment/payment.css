@@ -1,0 +1,18 @@
+.payment-label {
+  font-size: 20px;
+  font-weight: 600;
+}
+.payment-label-1 {
+  font-weight: 700;
+  font-size: 21px;
+}
+.payment-delivery {
+  background-color: #f3e9df;
+}
+.payment-secured {
+  display: flex;
+  background-color: rgba(59, 183, 126, 0.3);
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}

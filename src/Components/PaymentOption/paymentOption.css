@@ -1,0 +1,20 @@
+.payment-method {
+  padding: 0.5rem 1rem;
+  font-size: 1.25rem;
+  border-radius: 0.3rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  appearance: none;
+  width: 50%;
+}
+.payment-method {
+  object-fit: cover;
+}
+.payment-method img {
+  height: 30px;
+  width: auto;
+}

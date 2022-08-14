@@ -1,0 +1,18 @@
+nav{
+   background: linear-gradient(81.64deg, #FFB800 34.46%, #FF7A00 87.54%);
+}
+nav > section{
+   background: rgba(255, 255, 255, 0.3);
+}
+nav > div > button > svg{
+   width: 20px;
+    height: auto;
+}
+.add-to-cart,.profile-section{
+   transition: background-color 0.3s;
+}
+
+.add-to-cart:hover,.profile-section:hover{
+   background-color: rgba(255, 255, 255, 0.571) !important;
+   cursor: pointer;
+}

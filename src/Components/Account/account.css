@@ -1,0 +1,23 @@
+.account-input {
+  width: 100%;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 2%;
+  color: rgb(170, 170, 170);
+}
+.account-label {
+  color: black;
+  font-size: 18px;
+}
+.account-content {
+  border: 1px solid #e7eaec;
+}
+.account-order {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 2%;
+  color: rgb(170, 170, 170);
+  margin-bottom: 0px;
+}
